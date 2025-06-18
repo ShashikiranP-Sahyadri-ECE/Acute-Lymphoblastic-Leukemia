@@ -57,7 +57,10 @@ This repository provides a deep learning solution to classify **Acute Lymphoblas
 - **Macro Avg F1-Score**: `0.94`
 
 ---
+## Gradio Web App
+![Gradio](https://github.com/user-attachments/assets/b1e25da9-1c04-40f0-9ce6-431652fe74f3)
 
+---
 ## 📚 Citation
 ### Dataset Citation:
 
